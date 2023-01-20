@@ -1,7 +1,5 @@
 ![Profile-background](https://user-images.githubusercontent.com/87321166/213821475-48af1de4-f155-4078-befc-f5909b4d1e84.jpg)
-<p align="center">
-  <h2>Marzan Ivan</h2>
-</p>
+<p align="center">Marzan Ivan</p>
 
 
 <!--
