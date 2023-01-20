@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 <p align="center">
-  <img width="1002" height="366" src="https://user-images.githubusercontent.com/87321166/213817488-dd3a1264-3468-4fa5-870f-edb74dc93a9d.jpg">
+  <img width="1002" height="366" src="https://user-images.githubusercontent.com/87321166/213818152-1ef0d3c8-837d-4651-b6ca-ee1fe256e618.jpg">
 </p>
+
 
 <!--
 **MarzanIvan/MarzanIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
