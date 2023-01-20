@@ -3,6 +3,9 @@
 <h1 align="center">Marzan Ivan<br><br>RTOS<br>DEVELOPER</p>  
 <hr>
 <h2>Follow Me</h2>
+h1{
+  font-size:50px;
+}
 <!--
 **MarzanIvan/MarzanIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
