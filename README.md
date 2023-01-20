@@ -10,4 +10,4 @@
 
 </h2>
 
-![Marzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzanIvan&theme=Gradient)](https://github.com/MarzanInva/github-readme-stats)
+![Marzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzanIvan&theme=Gradient)]
