@@ -2,7 +2,9 @@
 <p align="center">
   <img width="750" height="128" src="https://user-images.githubusercontent.com/87321166/213819726-feec317b-7c43-476f-8f7c-26e33936f291.jpg">
 </p>
-![image](https://user-images.githubusercontent.com/87321166/213820791-1cb746ac-7dfe-490f-911f-b0c59064418c.png)
+![Profile-background](https://user-images.githubusercontent.com/87321166/213821419-7da60b2c-8c23-4ffd-9876-ef383ac39c7b.jpg)
+
+
 
 <!--
 **MarzanIvan/MarzanIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
