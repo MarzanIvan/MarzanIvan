@@ -9,4 +9,4 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id345515444)
 
 </h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzanIvan&show_icons=true&theme=radical)
+![Marzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzanIvan)](https://github.com/anuraghazra/github-readme-stats)
