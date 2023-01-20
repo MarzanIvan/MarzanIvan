@@ -3,7 +3,7 @@
 ![0bc5f4df3f6ef4ab3c08486941d724b0](https://user-images.githubusercontent.com/87321166/213805752-aefd0768-492d-4606-804f-f33c1f376ef2.jpg)
 <p align="center">
 
-  <img src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/87321166/213805752-aefd0768-492d-4606-804f-f33c1f376ef2.jpg)">
+  <img width="1920" height="1080" src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/87321166/213805752-aefd0768-492d-4606-804f-f33c1f376ef2.jpg)">
 
 </p>
 
