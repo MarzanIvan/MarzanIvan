@@ -1,8 +1,9 @@
 ### Hi there 👋
 <p align="center">
-  <img width="750" height="128" src="https://user-images.githubusercontent.com/87321166/213819726-feec317b-7c43-476f-8f7c-26e33936f291.jpg">
+  <img width="750" height="128" src="https://user-images.githubusercontent.com/87321166/213821475-48af1de4-f155-4078-befc-f5909b4d1e84.jpg">
 </p>
-![Profile-background](https://user-images.githubusercontent.com/87321166/213821419-7da60b2c-8c23-4ffd-9876-ef383ac39c7b.jpg)
+
+![Profile-background](https://user-images.githubusercontent.com/87321166/213821475-48af1de4-f155-4078-befc-f5909b4d1e84.jpg)
 
 
 
