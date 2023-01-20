@@ -2,10 +2,10 @@
 <hr>
 <h1 align="center">Marzan Ivan<br><br>RTOS<br>DEVELOPER</p>  
 <hr>
-<h2>Follow Me</h2>
-h1{
-  font-size:50px;
-}
+<h2>
+  Follow Me<br>
+  <h3>VK</h3>
+</h2>
 <!--
 **MarzanIvan/MarzanIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
