@@ -1,20 +1,12 @@
+
 ![Profile-background](https://user-images.githubusercontent.com/87321166/213821475-48af1de4-f155-4078-befc-f5909b4d1e84.jpg)
 <hr>
 <h1 align="center">Marzan Ivan<br><br>RTOS<br>DEVELOPER</h1>  
 <hr>
-Follow Me<br>
-<h3>VK</h3>
-<!--
-**MarzanIvan/MarzanIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Follow Me
+<br>
 
-Here are some ideas to get you started:
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id345515444)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</h2>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzanIvan&show_icons=true&theme=radical)
