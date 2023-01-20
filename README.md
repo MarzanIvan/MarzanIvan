@@ -1,6 +1,6 @@
 ![Profile-background](https://user-images.githubusercontent.com/87321166/213821475-48af1de4-f155-4078-befc-f5909b4d1e84.jpg)
-<p style="font-size:40px;" align="center">Marzan Ivan</p>  
-<p style="font-size:40px;" align="center">RTOS<br>DEVELOPER</p>  
+<h1 style="font-size:40px;" align="center">Marzan Ivan</p>  
+<h1 style="font-size:40px;" align="center">RTOS<br>DEVELOPER</p>  
 <!--
 **MarzanIvan/MarzanIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
