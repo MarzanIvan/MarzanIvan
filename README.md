@@ -1,7 +1,7 @@
 
 ![Profile-background](https://user-images.githubusercontent.com/87321166/213821475-48af1de4-f155-4078-befc-f5909b4d1e84.jpg)
 <hr>
-<h1 align="center">Marzan Ivan<br><br>RTOS<br>DEVELOPER</h1>  
+<h1 align="center">Marzan Ivan<br>RTOS DEVELOPER</h1>  
 <hr>
 <h2>Follow Me
 <br>
