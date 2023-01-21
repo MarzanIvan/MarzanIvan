@@ -14,4 +14,5 @@ I am Marzan Ivan. I am from
 </h2>
 
 ![Marzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzanIvan&theme=dark)]
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarzanIvan&exclude_repo=github-readme-stats,anuraghazra.github.io)
