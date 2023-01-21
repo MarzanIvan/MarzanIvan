@@ -15,7 +15,7 @@ I'm from Donetska Oblast, Ukraine.
 
 </h2>
 
-<table>
+<table align="center">
 <tr>
     <td>
         
