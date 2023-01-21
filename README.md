@@ -1,5 +1,4 @@
-
-![Profile-background](https://user-images.githubusercontent.com/87321166/213821475-48af1de4-f155-4078-befc-f5909b4d1e84.jpg)
+![Profile-background](https://user-images.githubusercontent.com/87321166/213829256-a3cc47d9-9384-4707-9577-2890211cbc41.jpg)
 <hr>
 <h1 align="center">Marzan Ivan<br>RTOS DEVELOPER</h1>
 <h3>About me</h3>
