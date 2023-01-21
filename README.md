@@ -19,7 +19,7 @@ I'm from Donetska Oblast, Ukraine.
 <tr>
     <td>
         
-![Marzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzanIvan)]
+![Marzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzanIvan)
   </td>
 
  <td>
