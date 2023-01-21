@@ -11,19 +11,21 @@ I am Marzan Ivan. I am from
 
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id345515444)
 
+
+
 </h2>
 
 <table>
 <tr>
     <td>
-      ###
-        ![Marzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzanIvan)]
+        
+![Marzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzanIvan)]
   </td>
 </tr>
 <tr>
     <td>
-      ###
-        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarzanIvan&exclude_repo=github-readme-stats,anuraghazra.github.io)
+        
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarzanIvan&exclude_repo=github-readme-stats,anuraghazra.github.io)
   </td>
 </tr>
 </table>
