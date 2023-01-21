@@ -2,8 +2,7 @@
 ![Profile-background](https://user-images.githubusercontent.com/87321166/213821475-48af1de4-f155-4078-befc-f5909b4d1e84.jpg)
 <hr>
 <h1 align="center">Marzan Ivan</h1>
-Summary<br>
-I am Marzan Ivan. I am from 
+I'm real time operating system developer. I'm from Donetska Oblast, Ukraine. 
 <hr>
 <h2>Follow Me
 <br>
