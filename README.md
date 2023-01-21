@@ -1,7 +1,9 @@
 
 ![Profile-background](https://user-images.githubusercontent.com/87321166/213821475-48af1de4-f155-4078-befc-f5909b4d1e84.jpg)
 <hr>
-<h1 align="center">Marzan Ivan<br>RTOS DEVELOPER</h1>  
+<h1 align="center">Marzan Ivan</h1>
+Summary<br>
+I am Marzan Ivan. I am from 
 <hr>
 <h2>Follow Me
 <br>
@@ -12,3 +14,5 @@
 </h2>
 
 ![Marzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzanIvan&theme=dark)]
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
