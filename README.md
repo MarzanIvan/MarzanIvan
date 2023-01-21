@@ -13,9 +13,15 @@ I am Marzan Ivan. I am from
 
 </h2>
 
-  | 
-------------- | -------------
-![Marzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzanIvan&theme=dark)]  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarzanIvan&exclude_repo=github-readme-stats,anuraghazra.github.io)
-
-|:-----|:--------:|
-| |  |
+<table>
+<tr>
+    <td>
+      ![Marzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzanIvan&theme=dark)]
+  </td>
+</tr>
+<tr>
+    <td>
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarzanIvan&theme=dark&exclude_repo=github-readme-stats,anuraghazra.github.io)
+  </td>
+</tr>
+</table>
