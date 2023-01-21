@@ -21,7 +21,9 @@ I am Marzan Ivan. I am from
         
 ![Marzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzanIvan)]
   </td>
-    <td>        
+
+ <td>
+        
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarzanIvan&exclude_repo=github-readme-stats,anuraghazra.github.io)
   </td>
 </tr>
