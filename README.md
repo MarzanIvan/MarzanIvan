@@ -1,6 +1,5 @@
 ![Profile-background](https://user-images.githubusercontent.com/87321166/213829256-a3cc47d9-9384-4707-9577-2890211cbc41.jpg)
 <hr>
-<h1 align="center">Marzan Ivan<br>RTOS DEVELOPER</h1>
 <h3>About me</h3>
 I'm from Donetska Oblast, Ukraine. 
 <hr>
