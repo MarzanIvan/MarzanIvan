@@ -14,12 +14,12 @@ I'm from Donetska Oblast, Ukraine.
 <tr>
     <td>
         
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarzanIvan&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarzanIvan&theme=dark&exclude_repo=github-readme-stats,anuraghazra.github.io)
   </td>
 
  <td>
         
-![Marzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzanIvan)
+![Marzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzanIvan&theme=dark)
   </td>
 </tr>
 </table>
