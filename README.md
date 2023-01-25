@@ -9,17 +9,3 @@ I'm from Donetska Oblast, Ukraine.
     
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id345515444)
 </h2>
-
-<table align="rigth">
-<tr>
-    <td>
-        
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarzanIvan&theme=dark&exclude_repo=github-readme-stats,anuraghazra.github.io)
-  </td>
-
- <td>
-        
-![Marzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzanIvan&theme=dark)
-  </td>
-</tr>
-</table>
