@@ -1,4 +1,4 @@
-![БАННЕР](https://github.com/user-attachments/assets/cf73771a-0d67-4da0-9db3-a0541c8eba5c)
+![БАННЕР](https://github.com/user-attachments/assets/64a77f73-2d14-4459-831d-03e64403a4b3)
 
 
 <hr>
