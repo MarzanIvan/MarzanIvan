@@ -4,9 +4,5 @@
 I'm from Donetska Oblast, Ukraine. 
 <hr>
 <h2>Follow Me
-<br>
-
-    <br>
-    
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id345515444)
-</h2>
+VKontakte @ioannweb
+Telegram @dieserpaniker
