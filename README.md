@@ -3,7 +3,7 @@
 
 <hr>
 <h3>Bio</h3>
-<h4>I am from 🇷🇺Russia.</h4>
+<h4>I am from Russia.</h4>
 <hr>
 Follow Me<br>
 VKontakte @ioannweb<br>
