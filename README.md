@@ -28,7 +28,7 @@ See more on instagram: @ioannweb
 [creativelab publish post](https://github.com/user-attachments/assets/e356565c-c084-4aa1-84f2-1817e3111e8f)
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/e356565c-c084-4aa1-84f2-1817e3111e8f" alt="Image" width="400" style="margin-right: 20px;"/>
+  <img src="https://github.com/user-attachments/assets/e356565c-c084-4aa1-84f2-1817e3111e8f" alt="Image" width="300" style="margin-right: 20px;"/>
   <p>
     Creative Lab – ваш надежный партнер в разработке современного дизайна.
   </p>
