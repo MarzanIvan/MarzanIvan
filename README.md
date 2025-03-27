@@ -13,9 +13,6 @@ I am graphic designer 🇷🇺<br/>
 • Python & C++ backend → https://riskai.ru<br/>
 • qt & C++ & Desktop → contact me for order<br/>
 
-
-### Продвижение под ключ
-
 Партнёр:
 - [avan.market](https://avan.market) PROMO: SUZUYA
 - [lis-skins](https://lis-skins) ref: https://bit.ly/suzuya-lis-skins
