@@ -3,13 +3,12 @@
 <br/>
 <hr>
 # suzuya • Graphic & UX/UI
-
-I am graphic designer 🇷🇺  
-• Affiliate marketing
-• SMM 
-• Web development React PHP JS 
-• C++ dev
-
+<br/>
+I am graphic designer 🇷🇺<br/>  
+• Affiliate marketing<br/>
+• SMM<br/>
+• Web development React PHP JS<br/>
+• C++ dev<br/>
 
 ### Продвижение под ключ
 
