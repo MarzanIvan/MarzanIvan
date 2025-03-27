@@ -27,5 +27,12 @@ See more on instagram: @ioannweb
 
 [creativelab publish post](https://github.com/user-attachments/assets/e356565c-c084-4aa1-84f2-1817e3111e8f)
 
-<img src="https://github.com/user-attachments/assets/e356565c-c084-4aa1-84f2-1817e3111e8f" width="500" height="500">
-
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/e356565c-c084-4aa1-84f2-1817e3111e8f" alt="Image" width="400" style="margin-right: 20px;"/>
+  <p>
+    I am graphic designer 🇷🇺<br>
+    Affiliate marketing | SMM | Web development & C++ dev<br>
+    Продвижение под ключ<br>
+    Партнёр: avan.market, lis-skins, рег.ру
+  </p>
+</div>
