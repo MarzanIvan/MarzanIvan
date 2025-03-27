@@ -14,8 +14,8 @@ I am graphic designer 🇷🇺<br/>
 • qt & C++ & Desktop → contact me for order<br/>
 
 Партнёр:
-- [avan.market](https://avan.market) PROMO: SUZUYA
-- [lis-skins](https://lis-skins) ref: https://bit.ly/suzuya-lis-skins
+- [avan.market](https://avan.market)
+- [lis-skins](https://lis-skins)
 - [рег.ру](https://reg.ru) PROMO: 5CEB-487B-54C9-06E6
 
 See more on instagram: @ioannweb
