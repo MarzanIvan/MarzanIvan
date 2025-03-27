@@ -7,11 +7,11 @@
 # suzuya • Graphic & UX/UI
 <br/>
 I am graphic designer 🇷🇺<br/>  
-• Affiliate marketing<br/>
-• SMM<br/>
-• Web development React PHP JS<br/>
-• Python & C++ backend<br/>
-• qt & C++ & Desktop<br/>
+• Affiliate marketing → https://suzuyatrade.ru<br/>
+• SMM → https://vk.com/marzancreativelab<br/>
+• Web development React PHP JS → https://vk.com/marzancreativelab<br/>
+• Python & C++ backend → https://riskai.ru<br/>
+• qt & C++ & Desktop → contact me for order<br/>
 
 
 ### Продвижение под ключ
