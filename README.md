@@ -27,5 +27,5 @@ See more on instagram: @ioannweb
 
 [creativelab publish post](https://github.com/user-attachments/assets/e356565c-c084-4aa1-84f2-1817e3111e8f)
 
-<img src="https://github.com/user-attachments/assets/e356565c-c084-4aa1-84f2-1817e3111e8f" width="1920" height="1080">
+<img src="https://github.com/user-attachments/assets/e356565c-c084-4aa1-84f2-1817e3111e8f" width="800" height="600">
 
