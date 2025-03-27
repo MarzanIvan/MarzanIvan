@@ -8,7 +8,9 @@ I am graphic designer 🇷🇺<br/>
 • Affiliate marketing<br/>
 • SMM<br/>
 • Web development React PHP JS<br/>
-• C++ dev<br/>
+• Python & C++ backend<br/>
+• qt & C++ & Desktop<br/>
+
 
 ### Продвижение под ключ
 
