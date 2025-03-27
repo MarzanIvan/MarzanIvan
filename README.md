@@ -5,7 +5,11 @@
 # suzuya • Graphic & UX/UI
 
 I am graphic designer 🇷🇺  
-Affiliate marketing | SMM | Web development & C++ dev
+• Affiliate marketing
+• SMM 
+• Web development React PHP JS 
+• C++ dev
+
 
 ### Продвижение под ключ
 
@@ -14,3 +18,4 @@ Affiliate marketing | SMM | Web development & C++ dev
 - [lis-skins](https://lis-skins)
 - [рег.ру](https://reg.ru)
 
+See more on instagram: @ioannweb
