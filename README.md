@@ -1,5 +1,7 @@
 ![БАННЕР](https://github.com/user-attachments/assets/64a77f73-2d14-4459-831d-03e64403a4b3)
 
+
+
 <br/>
 <hr>
 # suzuya • Graphic & UX/UI
@@ -25,4 +27,5 @@ See more on instagram: @ioannweb
 
 ![creativelab publish post](https://github.com/user-attachments/assets/e356565c-c084-4aa1-84f2-1817e3111e8f)
 
+<img src="[http://url.to/image.png](https://github.com/user-attachments/assets/64a77f73-2d14-4459-831d-03e64403a4b3](https://github.com/user-attachments/assets/e356565c-c084-4aa1-84f2-1817e3111e8f)" width="200" height="200">
 
