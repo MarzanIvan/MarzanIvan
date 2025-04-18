@@ -10,7 +10,7 @@ I am graphic designer 🇷🇺<br/>
 • Affiliate marketing → https://suzuyatrade.ru<br/>
 • SMM → https://vk.com/marzancreativelab<br/>
 • Web development React PHP JS → https://vk.com/marzancreativelab<br/>
-• Python & C++ backend → https://riskai.ru<br/>
+• Python & C++ backend → https://riskai.ru  https://videovault.ru<br/>
 • qt & C++ & Desktop → contact me for order<br/>
 
 Партнёр:
