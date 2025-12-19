@@ -33,7 +33,11 @@ Websites:<br/>
 • https://videovault.ru (PYTHON yt-dlp) YOUTUBE DONWLOADER<br/>
 • https://parfumtim.ru (REACT PHP MYSQL) PARFUME SHOP<br/>
 • https://riskai.ru (REACT PYTHON MYSQL PHP S3 РЕККУРЕТНЫЕ МОДЕЛИ) FINANCE RISK AI<br/>
-
-
-
-
+<br/><br/>
+![WEBSITE post marzancreativelab](https://github.com/user-attachments/assets/6b4deb53-ed08-4c13-b3da-fb03365450c7)
+<br/><br/>
+![WEBSITE post suzuyatrade](https://github.com/user-attachments/assets/6dd63d70-29bf-41ee-a2c3-66db6810cc23)
+<br/><br/>
+![WEBSITE post videovault](https://github.com/user-attachments/assets/8a37f7dc-37e5-4b4f-935f-cea450fcc032)
+<br/><br/>
+![WEBSITE post parfumtim](https://github.com/user-attachments/assets/0c4f8c1d-de71-48f9-b417-a0ce55c8f878)
