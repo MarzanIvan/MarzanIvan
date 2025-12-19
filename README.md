@@ -24,6 +24,16 @@ See more on instagram: @ioannweb
 
 
 ![VK BANNER (2)](https://github.com/user-attachments/assets/75cab8fd-ffea-419a-beaa-35c2b9744f93)
+<br/><br/><br/>
+![websites other](https://github.com/user-attachments/assets/6b69b2f7-683b-4354-83a3-d6dc0056b2b6)
+<br/>
+Websites:
+• https://marzancreativelab.ru DESIGN AGENCY<br/>
+• https://suzuyatrade.ru AFFILIATE MARKETING<br/>
+• https://videovault.ru YOUTUBE DONWLOADER<br/>
+• https://parfumtim.ru PARFUME SHOP<br/>
+• https://riskai.ru FINANCE RISK AI<br/>
+
 
 
 
