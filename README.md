@@ -27,12 +27,12 @@ See more on instagram: @ioannweb
 <br/><br/><br/>
 ![websites other](https://github.com/user-attachments/assets/6b69b2f7-683b-4354-83a3-d6dc0056b2b6)
 <br/>
-Websites:
-• https://marzancreativelab.ru DESIGN AGENCY<br/>
-• https://suzuyatrade.ru AFFILIATE MARKETING<br/>
-• https://videovault.ru YOUTUBE DONWLOADER<br/>
-• https://parfumtim.ru PARFUME SHOP<br/>
-• https://riskai.ru FINANCE RISK AI<br/>
+Websites:<br/>
+• https://marzancreativelab.ru (REACT) DESIGN AGENCY<br/>
+• https://suzuyatrade.ru (REACT) AFFILIATE MARKETING<br/>
+• https://videovault.ru (PYTHON yt-dlp) YOUTUBE DONWLOADER<br/>
+• https://parfumtim.ru (REACT PHP MYSQL) PARFUME SHOP<br/>
+• https://riskai.ru (REACT PYTHON MYSQL PHP S3 РЕККУРЕТНЫЕ МОДЕЛИ) FINANCE RISK AI<br/>
 
 
 
