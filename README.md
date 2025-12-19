@@ -22,7 +22,8 @@ See more on instagram: @ioannweb
 <br/>
 <hr>
 
-![github banner](https://github.com/user-attachments/assets/2a51e482-85a5-4b2b-bc62-e9bed581e24d)
+
+![VK BANNER (2)](https://github.com/user-attachments/assets/75cab8fd-ffea-419a-beaa-35c2b9744f93)
 
 
 
